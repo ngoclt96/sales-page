@@ -1,0 +1,1 @@
+@extends('pc.layouts.default')@section('content')    <h1 align="center">Home page index</h1>@endsection
